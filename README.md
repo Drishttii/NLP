@@ -10,9 +10,6 @@ Links :
 
 Change the extension of all the files to that of text files. <br />
 
-or <br />
-Use the dataset available here.
-
 ## Implementation:  <br />
 - Run the Extracting_info.iypnb in your jupyter notebook or google colaboratory upto the installation of basemap package. <br />
 - Restart the run time and run the code upto packages import. Do NOT run the cells installing libgeos and basemap again or else you will have to restart the runtime again. <br />
